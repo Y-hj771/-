@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "username": "小张",
+      "usergen": "男",
+      "useraddr": "ssss",
+      "usertel": "32412341234"
+    },
+    {
+      "username": "小李",
+      "usergen": "男",
+      "useraddr": "ssss",
+      "usertel": "32412341234"
+    },
+    {
+      "username": "小吴",
+      "usergen": "男",
+      "useraddr": "ssss",
+      "usertel": "32412341234"
+    },
+    {
+      "username": "小明",
+      "usergen": "男",
+      "useraddr": "ssss",
+      "usertel": "32412341234"
+    }
+  ]
+}
